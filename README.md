@@ -10,7 +10,7 @@ Esse repositório contem todas as atividades de aprendizadgem desenvolvidas por 
 
 ##### Bloco 1: Iniciando sua jornada na Aceleração
 
--[X] 01-1: _Regras da Formação_
+- [X] 01-1: _Regras da Formação_
 
 ##### Bloco 02: Essenciais de Java
 
